@@ -2,7 +2,7 @@
 
 ### Overview
 This project presents an Excel dashboard that visualizes operating profit across multiple dimensions, providing insights into profitability trends by **Region**, **Product**, **Retailer**, and **Time**. The dashboard enables stakeholders to understand profit performance, identify high-performing categories, and make data-driven decisions.
-
+![Operating Profit Dashboard](https://github.com/CrownedPrince24/Sales_Dashboard/blob/main/my_sales_dashboard%20.png)
 ### Contents
 The Excel file in this repository includes the following key sheets:
 
